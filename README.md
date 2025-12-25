@@ -2,7 +2,7 @@
 - 👀 I’m interested in  biochemistry and biotechnology 
 - 🌱 I’m currently making e-commerce website whit python
 - 📫 How to reach me --> bilge.asci@gmail.com
-- 😄 Pronouns: BILL-je → /ˈbɪl.ɟe/
+- 😄 Pronunciation: BIL-geh ( /ˈbɪl.ɡɛ/ )
 
 
 <!---
