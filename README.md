@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bilgeasci
 - 👀 I’m interested in  biochemistry and biotechnology 
-- 🌱 I’m currently making e-commerce website whit python
+- 🌱 I’m currently making e-commerce website with python
 - 📫 How to reach me --> bilge.asci@gmail.com
 - 😄 Pronunciation: BIL-geh ( /ˈbɪl.ɡɛ/ )
 
